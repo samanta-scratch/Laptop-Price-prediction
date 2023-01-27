@@ -1,1 +1,1 @@
-# Laptop-Price-prediction
+# Laptop Price Prediction
